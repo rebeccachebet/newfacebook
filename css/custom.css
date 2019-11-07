@@ -1,0 +1,23 @@
+.first_class{
+    font-size : 50px;
+    color : green;
+}
+
+.second_class{
+    font-size : 20px;
+    color : lightblue;
+    color : red;
+    font-size: 75%;
+    font-family : cursive,verdana,sans-serif;
+}
+
+#unordered_list_id li{
+  /* display: none; */
+  font-size : 5px;
+}
+
+.table .thead-maroon th {
+  color: #fff;
+  background-color: maroon;
+  border-color: black;
+}
