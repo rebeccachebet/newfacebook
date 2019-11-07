@@ -1,0 +1,139 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #edf0f5;
+}
+
+#app-body {
+    padding:0px 5px 0px 0px;
+}
+
+.facebook_header {
+    width: 100%;
+    height: 82px;
+    background-color: #3D5998;
+    border-bottom: 1px solid #133783;
+}
+
+.facebook_footer {
+    min-height: 90px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    ;
+}
+
+.facebook_logo {
+    /* vertical-align: bottom; */
+    margin-top: 1.9%;
+}
+
+.facebook_logo h3 {
+    font-size: 275%;
+    font-family: "Klavika bold", Roboto, "Freight Sans Bold", Arial, Open sans, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+.log_in_form label {
+    color: #fff;
+    padding-bottom: 0.5%;
+}
+
+.login_button {
+    /* color: #fff; */
+    background-color: #133783;
+    height: 35%;
+    margin: 60% 0% 0% 0%;
+    font-size: 80%;
+    position: absolute;
+    padding: 0px 10px;
+    border-radius: 0;
+    border-color: black;
+}
+
+/* left container styles */
+
+.left_container {
+    padding: 7% 7% 0% 0%;
+}
+
+.left_container h2 {
+    font-size: 28px;
+}
+
+.left_container_text {
+    padding-top: 3%;
+    padding-left: 1%;
+}
+
+.left_container_text p {
+    /* padding-top: 6%; */
+    font-size: 85%;
+}
+
+.left_container_text p span {
+    font-weight: bold;
+    font-size: 105%;
+}
+
+.left_container_text p img {
+    /* padding: 0% 5% 0% 0%; */
+    /* font-size: 300%; */
+    /* color: slategrey; */
+    width: 20%;
+}
+
+/* end of styles */
+
+/* sign up form container styles */
+
+.sign_up_form_container {
+    padding-top: 1.5%;
+}
+
+.sign_up_form_container h5 {
+    color: slategrey;
+}
+
+.sign_up_form {
+    padding-top: 2.5%;
+}
+
+.birthday_group .heading, .gender_group .heading {
+    color: slategray;
+}
+
+.gender_group {
+    margin-left: 0.5rem;
+}
+
+.gender_group .form-check {
+    margin-left: 2.5%;
+}
+
+.terms_of_service p {
+    color: slategrey;
+    font-size: 80%;
+    width: 60%;
+    margin-left: 1%;
+}
+
+.terms_of_service span {
+    color: #133783;
+    font-weight: bolder;
+}
+
+.sign_up_button {
+    background-color: #609d4d;
+    width: 40%;
+}
+
+/* end of styles */
+
+/* HELPER STYLES */
+
+.width-96 {
+    width: 96%;
+}
