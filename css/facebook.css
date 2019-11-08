@@ -4,6 +4,12 @@ body {
     background-color: #edf0f5;
 }
 
+.login-bg{
+    color:#fff;
+background-color:#02274e;
+border-color:#02274e;
+}
+
 #app-body {
     padding:0px 5px 0px 0px;
 }
